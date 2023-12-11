@@ -40,48 +40,9 @@ const About = () => {
               innovation meets creativity!
             </strong>
           </p>
-          <p className="my-2 inline-block p-3 border-sky-400 border rounded-lg text-xl text-sky-500 hover:bg-sky-500 hover:text-slate-100 duration-300"><Link href="https://drive.google.com/file/d/1BDiI6YSY6Gjr7U3_Jvuv9PX0J91eqfRt/view?usp=sharing" target="_blank">📄 My resume </Link></p>
+          <p className="my-2 inline-block p-3 border-sky-400 border rounded-lg text-xl text-sky-500 hover:bg-sky-500 hover:text-slate-100 duration-300"><Link href="https://drive.google.com/file/d/1ZOLN4oPaGx_agiwDwbl6BIcnFbWLDPot/view?usp=sharing" target="_blank">📄 My resume </Link></p>
         </div>
       </div>
-      {/* <div
-        x-data="{}"
-        x-init="$nextTick(() => {
-          let ul = $refs.logos;
-          ul.insertAdjacentHTML('afterend', ul.outerHTML);
-          ul.nextSibling.setAttribute('aria-hidden', 'true');
-        })"
-        className="w-full inline-flex flex-nowrap overflow-hidden [mask-image:_linear-gradient(to_right,transparent_0,_black_128px,_black_calc(100%-128px),transparent_100%)]"
-      >
-        <ul
-          x-ref="logos"
-          className="flex items-center justify-center md:justify-start [&_li]:mx-8 [&_img]:max-w-none animate-infinite-scroll"
-        >
-          <li>
-            <Image src={dp} alt="Facebook" />
-          </li>
-          <li>
-            <Image src={dp} alt="Disney" />
-          </li>
-          <li>
-            <Image src={dp} alt="Airbnb" />
-          </li>
-          <li>
-            <Image src={dp} alt="Apple" />
-          </li>
-          <li>
-            <Image src={dp} alt="Spark" />
-          </li>
-          <li>
-            <Image src={dp} alt="Samsung" />
-          </li>
-          <li>
-            <Image src={dp} alt="Quora" />
-          </li>
-          <li>
-            <Image src={dp} alt="Sass" />
-          </li>
-        </ul>
-      </div> */}
       <div>
         <h3 className="text-sky-500 text-2xl font-bold text-center sm:mb-16 mb-8">My Tech Stacks</h3>
         <div className="sm:flex flex flex-wrap overflow-y-auto justify-center sm:text-8xl text-5xl gap-6 sm:gap-20 text-slate-300">
