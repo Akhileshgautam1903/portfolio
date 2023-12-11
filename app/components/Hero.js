@@ -13,19 +13,19 @@ import pfp from "../../public/motorbike_ride.png";
 //Bricolage_Grotesque++
 //Gluten
 
-const phudu = Modak({ weight: "400", subsets: ["latin"] });
+const modak = Modak({ weight: "400", subsets: ["latin"] });
 const poppins = Poppins({ weight: "400", subsets: ["latin"] });
 
 const Hero = () => {
   return (
     <div className="flex flex-col item-center my-8 sm:my-24 text-gray-100 text-center relative">
-      <h1 className={`text-4xl sm:text-9xl leading-snug ${phudu.className}`}>
-        Hi, I'm Akhilesh. <br /> A Web Developer.
+      <h1 className={`text-4xl sm:text-9xl leading-snug ${modak.className}`}>
+        Hi, I&apos;m Akhilesh. <br /> A Web Developer.
       </h1>
       <p
         className={`${poppins.className} p-5 px-9 text-xs sm:text-lg text-gray-300 my-3`}
       >
-        I'm passionate about turning ideas into <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">captivating digital experiences </strong> .
+        I&apos;m passionate about turning ideas into <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">captivating digital experiences </strong> .
       </p>
       <div className="social flex gap-10 text-xl justify-center sm:text-4xl">
         <a href="https://github.com/Akhileshgautam1903"><BsGithub className="hover:text-sky-500" /></a>

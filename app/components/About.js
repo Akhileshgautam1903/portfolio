@@ -16,7 +16,7 @@ const About = () => {
             About me
           </h3>
           <p className="text-md sm:text-base">
-            Hello there! I'm Akhilesh Gautam, a recent graduate with a{" "}
+            Hello there! I&apos;m Akhilesh Gautam, a recent graduate with a{" "}
             <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">
               B.Tech in Computer Science from Presidency University
             </strong>
@@ -26,12 +26,12 @@ const About = () => {
             <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">
               React, Next.js, Node.js, and Express
             </strong>
-            . <span className="hidden sm:inline">While I wouldn't call myself a master, I am certainly more than
+            . <span className="hidden sm:inline">While I wouldn&apos; t call myself a master, I am certainly more than
             average. My toolkit also includes{" "}
             <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">
               SQL for database management
             </strong>
-            , and I'm well-versed in{" "}
+            , and I&apos;m well-versed in{" "}
             <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">MongoDB</strong>.</span> <br />
             My journey is fueled by a constant desire to learn, create, and
             contribute to the ever-evolving world of technology. Welcome to my
