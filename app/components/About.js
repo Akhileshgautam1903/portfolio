@@ -40,7 +40,7 @@ const About = () => {
               innovation meets creativity!
             </strong>
           </p>
-          <p className="my-2 inline-block p-3 border-sky-400 border rounded-lg text-xl text-sky-500 hover:bg-sky-500 hover:text-slate-100 duration-300"><Link href="https://drive.google.com/file/d/1ZOLN4oPaGx_agiwDwbl6BIcnFbWLDPot/view?usp=sharing" target="_blank">📄 My resume </Link></p>
+          <p className="my-2 inline-block p-3 border-sky-400 border rounded-lg text-xl text-sky-500 hover:bg-sky-500 hover:text-slate-100 duration-300"><Link href="https://drive.google.com/file/d/1_mbO94kmX04dbw4nHapkVgKngzwywtRF/view?usp=sharing" target="_blank">📄 My resume </Link></p>
         </div>
       </div>
       <div>
