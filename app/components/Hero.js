@@ -25,7 +25,7 @@ const Hero = () => {
       <p
         className={`${poppins.className} p-5 px-9 text-xs sm:text-lg text-gray-300 my-3`}
       >
-        I&apos;m passionate about turning ideas into <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">captivating digital experiences </strong> .
+        I&apos;m passionate about turning ideas into <strong className="text-sky-600">captivating digital experiences </strong> .
       </p>
       <div className="social flex gap-10 text-xl justify-center sm:text-4xl">
         <a href="https://github.com/Akhileshgautam1903"><BsGithub className="hover:text-sky-500" /></a>

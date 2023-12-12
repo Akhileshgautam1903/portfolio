@@ -17,26 +17,26 @@ const About = () => {
           </h3>
           <p className="text-md sm:text-base">
             Hello there! I&apos;m Akhilesh Gautam, a recent graduate with a{" "}
-            <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">
+            <strong className="text-sky-600 ">
               B.Tech in Computer Science from Presidency University
             </strong>
             , batch of 2023. I have a genuine passion for building things,
             especially websites. <br />I have hands-on experience with
             technologies like{" "}
-            <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">
+            <strong className="text-sky-600 ">
               React, Next.js, Node.js, and Express
             </strong>
             . <span className="hidden sm:inline">While I wouldn&apos; t call myself a master, I am certainly more than
             average. My toolkit also includes{" "}
-            <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">
+            <strong className="text-sky-600 ">
               SQL for database management
             </strong>
             , and I&apos;m well-versed in{" "}
-            <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">MongoDB</strong>.</span> <br />
+            <strong className="text-sky-600 ">MongoDB</strong>.</span> <br />
             My journey is fueled by a constant desire to learn, create, and
             contribute to the ever-evolving world of technology. Welcome to my
             portfolio, where{" "}
-            <strong className="text-sky-600 underline decoration-wavy decoration-emerald-700">
+            <strong className="text-sky-600 ">
               innovation meets creativity!
             </strong>
           </p>
