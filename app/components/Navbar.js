@@ -12,7 +12,7 @@ const Navbar = () => {
         <Image className="w-14 h-14" src={pfp} alt="profile img" />
         <h1 className={`invisible sm:visible text-lg sm:text-xl mt-4 ${oswald.className}`}>AKHILESH GAUTAM</h1>
       </div>
-      <Link href="https://drive.google.com/file/d/1_mbO94kmX04dbw4nHapkVgKngzwywtRF/view?usp=sharing" target="_blank">
+      <Link href="https://drive.google.com/file/d/1tb-STG3p4-vBE6rYWOUtUMueUhj9QPqe/view?usp=sharing" target="_blank">
         <button className={`sm:text-md bg-sky-500 py-1 px-3 rounded-md hover:bg-sky-700 duration-150 ${oswald.className}`}>
           Resume
         </button>

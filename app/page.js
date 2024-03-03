@@ -5,7 +5,7 @@ import About from "./components/About";
 
 export default function Home() {
   return (
-    <main className="sm:w-3/4 sm:mx-auto">
+    <main className="lg:w-4/5 sm:mx-auto">
       <Hero />
       <Projects />
       <About />
